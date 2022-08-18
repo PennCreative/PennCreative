@@ -1,10 +1,10 @@
 <img src="images/MPBanner.png" alt="My Banner">
 <!--
 **PennCreative/PennCreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1>I'm Michael Pennington!</h1>
+<h1>I'm Michael Pennington!</h1> <p> First off, thank you for stopping by and checking me out! </p>
 <a href = 'https://www.linkedin.com/in/michael-w-pennington/'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <hr>
-<p>First off, thank you for stopping by and checking me out! </p>
+
 
 <h2>Languages and Tools:</h2>
 <p align="left" class="icons"> 
