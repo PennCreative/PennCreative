@@ -4,7 +4,7 @@
 <h1>I'm Michael Pennington!</h1><a href = 'https://www.linkedin.com/in/michael-w-pennington/'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <p>First off, thank you for stopping by and checking me out! I'm currently a student at NSS and enjoying all of the challenges that come with their Full Stack Program. I'm a husband, a father, a graphic designer, and now a developer. Life is crazy and I'm all here for it!</p>
 
--<p>
+<p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
