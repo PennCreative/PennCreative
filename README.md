@@ -7,5 +7,5 @@
 <h3>About Me</h3>
 <p>First off, thank you for stopping by and checking me out! I'm currently a student at NSS and enjoying all of the challenges that come with their Full Stack Program. I'm thoroughly enjoying learning Frontend and I can't wait to get to backend. I'm on a mission to build a solid foundation! Life is good!</p>
 </br>
-<p>It's officially Capstone season! Be on the lookout for my app <b>SESH</b>. I'm pushing myself to the max on this one!</p>
+<p>It's officially Capstone season! Be on the lookout for my app <b><u>SESH</u></b>. I'm pushing myself to the max on this one!</p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=penncreative&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
